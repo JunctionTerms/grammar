@@ -4,7 +4,7 @@ span: span-53
 title: eQuantum
 baseurl: /grammar
 repository: JunctionTerms/grammar
-action: JunctionTerms/syntax/actions/runs/14988216791
+action: JunctionTerms/syntax/actions/runs/15191519868
 description: ₠Quantum Project
 
 #debug:
@@ -49,5 +49,5 @@ plugins:
 
 track:
   spin: [5, 6]
-  pinned: [maps, feed, lexer, parser, syntax, grammar, flakes, jsonix, lanyon, wiki, sitemap, wikitemplate]
+  pinned: [maps, feed, lexer, parser, syntax, grammar, flakes, jsonix, lanyon, wiki, wikitemplate, progit]
   organization: [Chetabahana, FeedMapping, GlobalZones, HybridModels, JunctionTerms, KernelPatterns, MappingSystem, NeuralSystem, ObjectModules, VirtualNetworks, WeakNegative, WeakPositive, ZeroWeak]
